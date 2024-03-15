@@ -39,3 +39,4 @@ const satelliteDataSimple = new SatelliteDataSimple({
 });
 
 console.log(satelliteDataSimple);
+console.log("fefef");
